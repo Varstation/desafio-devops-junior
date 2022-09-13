@@ -5,7 +5,7 @@ Esse é um desafio feito para conhecer um pouco mais de cada candidato a vaga de
 ## Descrição
 No diretório `api` existe uma simples api feita utilizando o FastAPI. Para que a api funcione é necessário passar 2 variáveis de ambiente chamada `ADMIN_USER` e `ADMIN_PASS` que serão as credenciais de administrador para acessar a rota pricipal da api. Para executqr a api utilize o comando `uvicorn main:app --reload`.
 
-Seu objetivo é descrever o processo de deploy da api utilizando os serviços da AWS em um arquivo `parte1.md` com os todos os passos necessários para faze-lo. Devemos poder reproduzir o processo descrito da sua resposta em uma conta da AWS. A seguir alguns pontos de atenção:
+Seu objetivo é **DESCREVER** o processo de deploy da api utilizando os serviços da AWS em um arquivo `parte1.md` com os todos os passos necessários para faze-lo. Devemos poder reproduzir o processo descrito da sua resposta em uma conta da AWS. A seguir alguns pontos de atenção:
 
 - Assume-se que o deploy será feito em uma conta AWS sem nenhum recurso de infraestrutura criado previamente.
 - Existem diversas formas de realizar o deploy da aplicação utilizando os recursos da AWS. Sinta-se a vontade para escolher qualquer uma delas.
@@ -19,3 +19,5 @@ Seu objetivo é descrever o processo de deploy da api utilizando os serviços da
 3. Envie um e-mail com o link de seu PR e aguarde algum contribuidor realizar o code review.
 
 Boa sorte!
+
+# NÃO É NECESSÁRIO SUBIR O RECURSOS EM ALGUM CONTA AWS PRÓPRIA, SOMENTE A DESCRIÇÃO DOS PASSOS É NECESSÁRIA!
