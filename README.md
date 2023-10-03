@@ -20,4 +20,6 @@ Seu objetivo é **DESCREVER** o processo de deploy da api utilizando os serviço
 
 Boa sorte!
 
+#### Em caso de dúvidas, entre em contato pelo email `leonardo.menini@einstein.br`
+
 #### NÃO É NECESSÁRIO SUBIR O RECURSOS EM ALGUM CONTA AWS PRÓPRIA, SOMENTE A DESCRIÇÃO DOS PASSOS É NECESSÁRIA!
